@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Build artifacts
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+*.whl
+*.tar.gz
